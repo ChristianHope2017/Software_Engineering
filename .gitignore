@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+#Python
+_pycache_/
+*._pyc
+
+#Java / Maven
+target/
+
+#Logs
+*.Log
+
+#VS Code settings
+.vscode/
